@@ -1,0 +1,222 @@
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+
+  .card {
+      /* Add shadows to create the "card" effect */
+      margin-top: 10px;
+      width: 100%;
+      height: 350px;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      transition: 0.3s;
+      text-align: none;
+  }
+
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+  /* Add some padding inside the card container */
+  .card-container {
+      padding: 2px 16px;
+
+  }
+
+
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen 
+and (min-width : 321px) {
+
+  .card {
+      /* Add shadows to create the "card" effect */
+      margin-top: 10px;
+      width: 98%;
+      height: 280px;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      transition: 0.3s;
+      text-align: none;
+      overflow: auto;
+      word-wrap: break-word;
+  }
+
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+  /* Add some padding inside the card container */
+  .card-container {
+      padding: 2px 16px;
+
+  }
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen 
+and (max-width : 320px) {
+  .card {
+      /* Add shadows to create the "card" effect */
+      margin-top: 10px;
+      width: 350px;
+      height: 350px;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      transition: 0.3s;
+      text-align: none;
+  }
+
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+  /* Add some padding inside the card container */
+  .card-container {
+      padding: 2px 16px;
+
+  }
+
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+
+  .card {
+      /* Add shadows to create the "card" effect */
+      margin-top: 10px;
+      width: 90%;
+      height: 350px;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      transition: 0.3s;
+      text-align: none;
+  }
+
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+  /* Add some padding inside the card container */
+  .card-container {
+      padding: 2px 16px;
+
+  }
+}
+
+/* iPads (landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) {
+
+  .card {
+      /* Add shadows to create the "card" effect */
+      margin-top: 10px;
+      width: 90%;
+      height: 350px;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      transition: 0.3s;
+      text-align: none;
+  }
+
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+  /* Add some padding inside the card container */
+  .card-container {
+      padding: 2px 16px;
+
+  }
+
+}
+
+/* iPads (portrait) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {
+
+  .card {
+      /* Add shadows to create the "card" effect */
+      margin-top: 10px;
+      width: 90%;
+      height: 350px;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      transition: 0.3s;
+      text-align: none;
+  }
+
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+  /* Add some padding inside the card container */
+  .card-container {
+      padding: 2px 16px;
+
+  }
+
+}
+
+/* Desktops and laptops ----------- */
+@media only screen 
+and (min-width : 1224px) {
+
+  .card {
+      /* Add shadows to create the "card" effect */
+      margin-top: 10px;
+      width: 90%;
+      height: 350px;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      transition: 0.3s;
+      text-align: none;
+  }
+
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+  /* Add some padding inside the card container */
+  .card-container {
+      padding: 2px 16px;
+
+  }
+
+}
+
+/* Large screens ----------- */
+@media only screen 
+and (min-width : 1824px) {
+
+  .card {
+      /* Add shadows to create the "card" effect */
+      margin-top: 10px;
+      width: 350px;
+      height: 350px;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      transition: 0.3s;
+      text-align: none;
+  }
+
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+  /* Add some padding inside the card container */
+  .card-container {
+      padding: 2px 16px;
+
+  }
+}

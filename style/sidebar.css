@@ -1,0 +1,466 @@
+.pt-logo:hover {
+  cursor: pointer;
+}
+
+.pic-holder:hover {
+  cursor: pointer;
+}
+
+
+/* iPads (portrait) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {
+  .pic-thumb {
+     border-radius: 50%;
+     width: 80px;
+     height: 80px;
+  }
+
+  .pt-logo{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 80px;
+  }
+
+  .sidebar {
+    margin-bottom: -3333px;
+    padding-bottom: 3333px;
+    background-color: rgb(16, 105, 139);
+  }
+
+  .middle-text {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+  }
+
+  .sidebar-text {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+  }
+
+  .pic-holder {
+    height : 100px;
+    width : 100px;
+  }
+}
+
+/* Desktops and laptops ----------- */
+@media only screen 
+and (min-width : 600px) {
+  .pic-thumb {
+      margin-top: 10px;
+      border-radius: 50%;
+      width: 80px;
+      height: 80px;
+  }
+
+  .pt-logo{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 80px;
+  }
+
+  .sidebar {
+    margin-bottom: -3333px;
+    padding-bottom: 3333px;
+    background-color: rgb(16, 105, 139);
+  }
+
+  .middle-text {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+  }
+
+  .sidebar-text {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+  }
+
+  .pic-holder {
+    height : 100px;
+    width : 100px;
+  }
+}
+
+
+
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+  .pic-thumb {
+      margin-top: 10px;
+      border-radius: 50%;
+      width: 10px;
+      height: 10px;
+  }
+
+  .pt-logo{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 80px;
+  }
+
+  .sidebar {
+    margin-bottom: -3333px;
+    padding-bottom: 3333px;
+    background-color: rgb(16, 105, 139);
+  }
+
+  .middle-text {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+  }
+
+  .sidebar-text {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-size: 10px
+  }
+
+  .pic-holder {
+    height : 100px;
+    width : 100px;
+  }
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen 
+and (min-width : 321px) {
+  .pic-thumb {
+      margin-top: 10px;
+      border-radius: 50%;
+      width: 80px;
+      height: 80px;
+  }
+
+  .pt-logo{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 80px;
+  }
+
+  .sidebar {
+    margin-bottom: -3333px;
+    padding-bottom: 3333px;
+    background-color: rgb(16, 105, 139);
+  }
+
+  .middle-text {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+  }
+
+  .sidebar-text {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+  }
+
+  .pic-holder {
+    height : 100px;
+    width : 100px;
+  }
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen 
+and (max-width : 320px) {
+  .pic-thumb {
+      margin-top: 10px;
+      border-radius: 50%;
+      width: 40px;
+      height: 40px;
+  }
+  .pt-logo{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 80px;
+  }
+
+  .sidebar {
+    margin-bottom: -3333px;
+    padding-bottom: 3333px;
+    background-color: rgb(16, 105, 139);
+  }
+
+  .middle-text {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+  }
+
+  .sidebar-text {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+  }
+
+  .pic-holder {
+    height : 100px;
+    width : 100px;
+  }
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+    /* Styles */
+  .pt-logo{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 80px;
+  }
+
+  .sidebar {
+    margin-bottom: -3333px;
+    padding-bottom: 3333px;
+    background-color: rgb(16, 105, 139);
+  }
+
+  .middle-text {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+  }
+
+  .sidebar-text {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+  }
+
+  .pic-holder {
+    height : 100px;
+    width : 100px;
+  }
+}
+
+/* iPads (landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) {
+    /* Styles */
+
+  .pt-logo{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 80px;
+  }
+
+  .sidebar {
+    margin-bottom: -3333px;
+    padding-bottom: 3333px;
+    background-color: rgb(16, 105, 139);
+  }
+
+  .middle-text {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+  }
+
+  .sidebar-text {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+  }
+
+  .pic-holder {
+    height : 100px;
+    width : 100px;
+  }
+}
+
+/* iPads (portrait) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {
+   .pic-thumb {
+      margin-top: 10px;
+      border-radius: 50%;
+      width: 80px;
+      height: 80px;
+  }
+
+  .pt-logo{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 80px;
+  }
+
+  .sidebar {
+    margin-bottom: -3333px;
+    padding-bottom: 3333px;
+    background-color: rgb(16, 105, 139);
+  }
+
+  .middle-text {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+  }
+
+  .sidebar-text {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+  }
+
+  .pic-holder {
+    height : 100px;
+    width : 100px;
+  }
+
+}
+
+/* Desktops and laptops ----------- */
+@media only screen 
+and (min-width : 1224px) {
+  .pic-thumb {
+      margin-top: 10px;
+      border-radius: 50%;
+      width: 100px;
+      height: 100px;
+  }
+
+  .pt-logo{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 80px;
+  }
+
+  .sidebar {
+    margin-bottom: -3333px;
+    padding-bottom: 3333px;
+    background-color: rgb(16, 105, 139);
+  }
+
+  .middle-text {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+  }
+
+  .sidebar-text {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+  }
+
+  .pic-holder {
+    height : 100px;
+    width : 100px;
+  }
+
+}
+
+/* Large screens ----------- */
+@media only screen 
+and (min-width : 1824px) {
+  .pic-thumb {
+      margin-top: 10px;
+      border-radius: 50%;
+      width: 120px;
+      height: 120px;
+  }
+
+
+  .pt-logo{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 80px;
+  }
+
+  .sidebar {
+    margin-bottom: -3333px;
+    padding-bottom: 3333px;
+    background-color: rgb(16, 105, 139);
+  }
+
+  .middle-text {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+  }
+
+  .sidebar-text {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+  }
+
+  .pic-holder {
+    height : 100px;
+    width : 100px;
+  }
+
+}
+
+/* iPhone 4 ----------- */
+@media
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+  .pic-thumb {
+      margin-top: 10px;
+      border-radius: 50%;
+      width: 60px;
+      height: 60px;
+  }
+
+  .pt-logo{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 40px;
+  }
+
+}
+
+

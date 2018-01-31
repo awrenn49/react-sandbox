@@ -1,0 +1,200 @@
+
+
+.manage-dropzone {
+  background-color: #c0f3fc;
+  border: 2px dotted #FFF;
+  border-radius: 20px;
+  color: white;
+  font: bold 16px arial;
+  height: 200px;
+  margin: 30px auto;
+  text-align: center;
+  width: 400;
+  margin-bottom: 0;
+  margin-top: 5px;
+}
+
+.manage-dropzone-text {
+  margin-top: 75px;
+  color: #10698b;
+}
+
+.roster-dropzone-text {
+  margin-top: 75px;
+  color: #10698b;
+}
+
+.roster-dropzone {
+  background-color: #c0f3fc;
+  border: 2px dotted #FFF;
+  border-radius: 20px;
+  color: white;
+  font: bold 16px arial;
+  height: 200px;
+  margin: 30px auto;
+  text-align: center;
+  width: 400;
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+
+  .manage-dropzone {
+    background-color: #c0f3fc;
+    border: 2px dotted #FFF;
+    border-radius: 20px;
+    color: white;
+    font: bold 16px arial;
+    height: 200px;
+    margin: 30px auto;
+    text-align: center;
+    width: 400;
+    margin-bottom: 0;
+    margin-top: 5px;
+
+  }
+
+  .manage-dropzone-text {
+    margin-top: 75px;
+    color: #10698b;
+  }
+
+  .roster-dropzone-text {
+    margin-top: 75px;
+    color: #10698b;
+  }
+
+  .roster-dropzone {
+    background-color: #c0f3fc;
+    border: 2px dotted #FFF;
+    border-radius: 20px;
+    color: white;
+    font: bold 16px arial;
+    height: 200px;
+    margin: 30px auto;
+    text-align: center;
+    width: 400;
+  }
+
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+
+  .manage-dropzone {
+    background-color: #c0f3fc;
+    border: 2px dotted #FFF;
+    border-radius: 20px;
+    color: white;
+    font: bold 16px arial;
+    height: 200px;
+    margin: 30px auto;
+    text-align: center;
+    vertical-align: center;
+    width: 400;
+    margin-bottom: 0;
+    margin-top: 5px;
+
+  }
+
+  .manage-dropzone-text {
+    margin-top: 75px;
+    color: #10698b;
+  }
+
+  .roster-dropzone {
+    background-color: #c0f3fc;
+    border: 2px dotted #FFF;
+    border-radius: 20px;
+    color: white;
+    font: bold 16px arial;
+    height: 200px;
+    margin: 30px auto;
+    text-align: center;
+    width: 400;
+  }
+
+}
+
+
+/* Desktops and laptops ----------- */
+@media only screen 
+and (min-width : 1224px) {
+
+
+  .manage-dropzone {
+    background-color: #c0f3fc;
+    border: 2px dotted #FFF;
+    border-radius: 20px;
+    color: white;
+    font: bold 16px arial;
+    height: 200px;
+    margin: 30px auto;
+    text-align: center;
+    vertical-align: center;
+    width: 400;
+    margin-bottom: 0;
+    margin-top: 5px;
+
+  }
+
+  .manage-dropzone-text {
+    margin-top: 75px;
+    color: #10698b;
+  }
+
+  .roster-dropzone {
+    background-color: #c0f3fc;
+    border: 2px dotted #FFF;
+    border-radius: 20px;
+    color: white;
+    font: bold 16px arial;
+    height: 200px;
+    margin: 30px auto;
+    text-align: center;
+    width: 400;
+  }
+
+}
+
+/* Large screens ----------- */
+@media only screen 
+and (min-width : 1824px) {
+
+  .manage-dropzone {
+    background-color: #c0f3fc;
+    border: 2px dotted #FFF;
+    border-radius: 20px;
+    color: white;
+    font: bold 16px arial;
+    height: 200px;
+    margin: 30px auto;
+    text-align: center;
+    vertical-align: center;
+    width: 400;
+    margin-bottom: 0;
+    margin-top: 5px;
+
+  }
+
+  .manage-dropzone-text {
+    margin-top: 75px;
+    color: #10698b;
+  }
+
+  .roster-dropzone {
+    background-color: #c0f3fc;
+    border: 2px dotted #FFF;
+    border-radius: 20px;
+    color: white;
+    font: bold 16px arial;
+    height: 200px;
+    margin: 30px auto;
+    text-align: center;
+    width: 400;
+  }
+}
