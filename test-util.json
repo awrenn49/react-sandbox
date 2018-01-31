@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ibiza-project",
+  "private_key_id": "1a8a360b6d6e15101410f1f6edd3812ee3862979",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCl89GYq4jDhESg\nsxsH2uM+2brO05z1zJAD5ttW7VEwPBTx0AsIGTMBNc190LtDGAbV+9DEShZRLwnV\n/RlPUrJpHdEziTzJwgj6CFjbz7b1i3gj6aZ+QXIW8AO9I/3wdTJNA6Z3fTOdu85d\nTNZvonu9vf6z8/KyeLfx0G/CUg3cuMvm3n7HZNMQxxim4upmmWwgOzEMji6vNDhl\n2wv7vq6tVALmXM0Gx2n3FuJTMC3TIt/FFjn4GTJPrRmZOHSFwmSNMrfVtJ4v4rRL\nsEUglPWulLF6e/ifLWJleDkCgypOr1syxkQZE7mQqiu3PwDIn7mndnPw7TQutgvr\n9gJvvgZ5AgMBAAECggEABg6s3jfXo3xQ1XVIJaygig8gNZOtiV7EvHG5HJaHtb0h\nrhRgDLT/wrnsJN0hMrEeMcIR5BJIt4CiKSaGfZnZA4N4Ovt1xa8AjSDQHoDZzqNf\nOJ9bCYV5xLrQxh750kSy1/MLyNV/9HBSF196PcOmZN36HacoOwmzPB81rxf349An\nYPvqX2wFQVg00FApcwFCEotd0NfrR7uWCJNrhcxZQDrXb2MznRtLuXdOv7MXXK7h\nSm/UW1HdeT9itvvSD6Sg8xSyT2GIsBFembFpxGNBq0pcOS1dgexwakD2ev2Bumji\nLzyYzxfw5ZKqfgYCHKdsQH18/G7xfyk+7rV1QmXpoQKBgQDebO7PwehFT0o6Bk9f\n8llL/5otmlR8yvRE+SU52i+6sJV52AQFtbHmBlZdXc57hV8JAOrDYHlcKE7hh3KQ\nrA364cfsPmplksRF2QM67gheMr5x+f6DUHW6PLQcYGnD2EH4oDdwxR80QL3s5pfY\nv9woRHJJFq4Pghb5GL8XN2tn4QKBgQC/AKB3NzUuPlQDE/9mbLyvmyF5/911hG3+\nWZKI1zVLK/FPoT2prhDB/wI7aOXRGHUkvChGWfVW0ThrQ8KKeyXGXV9GmYOMcByb\nhcOH/dBJrT/OaCW8w7T8PcEvFd37Ywgfa1iMmHW+7SpZTvXvCxMQwrs8vwuAUuoc\nGa8hR4cRmQKBgQCyHIkf1ScqWVQXIvZs3qSjNws/eVYumFcC5H/q081ksgMAjvqp\nl9XdXTXLjlLKlwKDMzjLO3XzVlPURaJ4N076l9KAW3rX269QP3dWuUX6KKhYnNgy\nTzv25qVUE+Cd847giWvb4f4a2b0892qhJwIlPKpH3OGFiabb0fUzoi1gAQKBgQCz\nNfBZyygPypVjCflh7fagQcsIQCVXJTlbJEoUMPClJobVMzG7KkI4837xpTu0k+Ed\n5ZlYYQGMQuRP6JT5ABDybRt/D3zZYTvGRJyw1VoANxkeHqQB2BLRdVP0TO0p+MJf\nUIYV7NrVmItannasolRyLnQlzA8LiUB1uzeR3x4BSQKBgQC+aiajIkO0yfki1MHI\n45oIVX7ZZLQYDrDLNJiGw7kjx562RwxIlOJCO4zO+QNMBxrWKqLx5g8bxLAViPEd\nuRIXFa9bn7yBrrb9PUOJOCtt0pFitkpvti40Sv+Y0r+gMX9ZUL1KrAxGRr3rAB3g\n7ncnjUi5ONmW1UsqyW9KaUbQQA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fnbao@ibiza-project.iam.gserviceaccount.com",
+  "client_id": "101481626467272029678",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fnbao%40ibiza-project.iam.gserviceaccount.com"
+}
